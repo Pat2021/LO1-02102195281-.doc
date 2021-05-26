@@ -4,7 +4,7 @@ https://ciciocacio.co.nz/
 
 I decided to use the website of my family restaurant Cicio Cacio. It’s an Italian restaurant in Newtown, Wellington, and I have analysed the system we actually use for collecting information about our customers and what we can improve in the future. We actually don’t used any coockie at the moment for our website and booking system, but we will do for the reason explained below.
 
-P1- Purpose of collection of personal information
+#P1- Purpose of collection of personal information
 
 The collection of personal information will be used to make a database for the restaurant customers. The purpose of the collection will be only related to the restaurant activities as bookings and newsletter, and not for un-lawful reasons. 
 
