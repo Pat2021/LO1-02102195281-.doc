@@ -55,11 +55,15 @@ As a customer I can decide to keep my information just for make reservation only
 Privacy statement
 
 We collect personal information from you, including information about your:
+
 •	name
 •	contact information
 •	location
 •	interactions with us
+
 We collect your personal information in order to:
-•	make a database for our customs to send you update the menu (that we change every months and important news or deal for our loyal customers)easy and fast way to make a reservation from our website.
+
+•	make a database for our customs to send you update the menu (that we change every months and important news or deal for our loyal customers) easy and fast way to make a reservation from our website.
+
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at info@ciciocacio.co.nz or https://ciciocacio.co.nz/
 
